@@ -3,7 +3,7 @@ Diretório usado para conceitos de Git.
 
 Testando commit...
 
-** Teste Negrito **
+*Teste Italico*
 
 
 Caquinha...
